@@ -1,2 +1,2 @@
 # Problem-Solving
-This repositoray is 
+This repositoray to document all my problem solving files from different OJs.
